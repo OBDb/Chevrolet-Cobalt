@@ -1,10 +1,27 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Cobalt"
+
 generations:
   - name: "First Generation (North America)"
     start_year: 2005
     end_year: 2010
-    description: "The North American Chevrolet Cobalt was a compact car that replaced the Cavalier in Chevrolet's lineup. Built on GM's Delta platform, it was available as a two-door coupe or four-door sedan. Engine options included 2.2L and 2.4L Ecotec four-cylinders, with the performance-oriented SS models featuring either a supercharged 2.0L (2005-2007) or a turbocharged 2.0L (2008-2010) engine producing up to 260 HP in the highest-spec SS coupe. The interior was basic but functional, with materials quality that reflected its budget-friendly positioning. Safety features were gradually improved throughout its production, with side airbags and stability control eventually becoming available. Despite criticism for its interior quality and refinement, the Cobalt SS variants received praise for their performance, with the turbocharged model setting competitive lap times against more expensive sports cars."
+    platform_code: "GMX001"
+    description: "The North American Chevrolet Cobalt was a compact car introduced for the 2005 model year, replacing both the Chevrolet Cavalier and Geo/Chevrolet Prizm in Chevrolet's lineup. Built on GM's Delta platform (GMX001), it was available as a two-door coupe or four-door sedan. Engine options included 2.2L and 2.4L Ecotec four-cylinders, with the performance-oriented SS models featuring either a supercharged 2.0L (2005-2007) or a turbocharged 2.0L (2008-2010) engine producing up to 260 HP in the highest-spec SS coupe. A Pontiac version was sold as the G5 (2007-2010) in the U.S., Pontiac G4 (2005-2006) in Mexico, and Pontiac Pursuit/G5 Pursuit in Canada. The interior was basic but functional, with materials quality that reflected its budget-friendly positioning. Safety features were gradually improved throughout its production, with side airbags and stability control eventually becoming available. The Cobalt ended production on June 23, 2010, and was replaced by the Chevrolet Cruze."
 
-  - name: "Chevrolet Cobalt (International Markets)"
+  - name: "First Generation (North America - 2008 Facelift)"
+    start_year: 2008
+    end_year: 2010
+    platform_code: "GMX001"
+    description: "A significant facelift was introduced for the 2008 model year, particularly notable for the turbocharged SS models. The new facelifted Cobalt SS 2-door coupe launched near the end of May 2008, replacing the LSJ supercharged engine with the more powerful LNF turbocharged 2.0L engine producing 260 HP and 260 lb-ft of torque. This facelift also included a new console, new steering wheel, and new radio head unit with audio input jack. Stability control (StabiliTrak) became standard on all models, along with side-impact air bags and MP3 player. The turbocharged SS delivered 0-60 MPH in approximately 5.5 seconds and a quarter-mile time of about 14 seconds."
+
+  - name: "Second Generation (Emerging Markets)"
     start_year: 2011
-    end_year: 2021
-    description: "The international version of the Chevrolet Cobalt, unrelated to the North American model, was a subcompact sedan developed primarily for emerging markets in South America, Asia, and Eastern Europe. Built on GM's GEM (Global Emerging Markets) platform, it featured simple, functional styling with a focus on interior space and practicality. Typically powered by 1.4L to 1.8L four-cylinder engines depending on the market, with manual or automatic transmission options. The interior prioritized space efficiency and durability over premium materials, with basic technology features by modern standards. This Cobalt was positioned as an affordable, practical family sedan for markets where value and low operating costs were primary considerations. In some regions, it was replaced by models like the Chevrolet Onix Plus or continued to be sold alongside newer designs. The international Cobalt represented GM's strategy of developing specific, cost-effective vehicles for emerging markets rather than directly adapting North American or European models."
+    end_year: 2019
+    platform_code: "Gamma II"
+    description: "In 2011, General Motors introduced a new Chevrolet Cobalt bearing the name in the Brazilian market, designed for emerging markets in South America, Asia, and Eastern Europe. Built on GM's Gamma II platform, it replaced the aging Chevrolet Astra/Viva locally. The car was equipped with 1.4L and 1.8L flex-fuel four-cylinder engines depending on market, with manual or automatic transmission options. It was also assembled in Colombia (2012-2016), Uzbekistan (2013-present as Ravon R4 and later Chevrolet Cobalt), Kazakhstan (2020-present), and Azerbaijan (2021-present). The interior prioritized space efficiency and durability over premium materials. In Brazil, production ended in late 2019, with 2020 being the final model year. The Cobalt was succeeded by the Chevrolet Onix Plus sedan in Latin America."
+
+  - name: "Second Generation (Emerging Markets - 2015 Facelift)"
+    start_year: 2016
+    end_year: 2019
+    platform_code: "Gamma II"
+    description: "The Cobalt received a facelift in late 2015 for the 2016 model year, introducing updated exterior styling with new front-end design and body panels. The facelift was applied to models in Brazil and Colombia, though the Uzbekistan-produced models (as Ravon R4 and later Chevrolet Cobalt) never received this visual update. In Brazil, the facelift continued until production ended in late 2019. The facelift maintained the same engine lineup and mechanical underpinnings while modernizing the vehicle's appearance to remain competitive against the Nissan Versa and Renault Logan."
